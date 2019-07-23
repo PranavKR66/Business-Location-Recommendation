@@ -1,0 +1,57 @@
+{
+    "nbformat_minor": 1, 
+    "cells": [
+        {
+            "source": "## Capstone project: The Battle of Neighborhoods (week 1)", 
+            "cell_type": "markdown", 
+            "metadata": {
+                "collapsed": true
+            }
+        }, 
+        {
+            "source": "### Segmentation and Clustering venues in Toronto and New York", 
+            "cell_type": "markdown", 
+            "metadata": {}
+        }, 
+        {
+            "source": "by: **Pranav KR**", 
+            "cell_type": "markdown", 
+            "metadata": {}
+        }, 
+        {
+            "source": "![alt text](https://www.narcity.com/uploads/b887ddcab416c7eae708e20538f75b9534e76169.png_facebook.png \"NYC and Toronto\")", 
+            "cell_type": "markdown", 
+            "metadata": {}
+        }, 
+        {
+            "source": "### 1. Introduction", 
+            "cell_type": "markdown", 
+            "metadata": {}
+        }, 
+        {
+            "source": "New York City and Toronto are two of the biggest cities in North America. Both cities are among the cultural and commercial centres of their respective countries.", 
+            "cell_type": "markdown", 
+            "metadata": {}
+        }
+    ], 
+    "metadata": {
+        "kernelspec": {
+            "display_name": "Python 3.6", 
+            "name": "python3", 
+            "language": "python"
+        }, 
+        "language_info": {
+            "mimetype": "text/x-python", 
+            "nbconvert_exporter": "python", 
+            "version": "3.6.8", 
+            "name": "python", 
+            "file_extension": ".py", 
+            "pygments_lexer": "ipython3", 
+            "codemirror_mode": {
+                "version": 3, 
+                "name": "ipython"
+            }
+        }
+    }, 
+    "nbformat": 4
+}
